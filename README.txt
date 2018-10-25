@@ -1,5 +1,5 @@
 1. 取扱説明 (コンパイル&実行方法)
-    bash build.sh でコンパイルとjarファイルの作成できる。
+    bash build.sh でコンパイルとjarファイルの作成できる。(JDK 11が必要)
     java -jar garden.jar 西門の人数 東門の人数 で実行する。
     例えば西門 1000人、東門2000人の場合は
     java -jar garden 1000 2000 とする。
